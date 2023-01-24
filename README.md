@@ -1,6 +1,6 @@
 ## registration-page
 
-This program automatically:
+This application automatically:
 
 1. Opens a new window and instance of Google Chrome
 2. Loads https://www.webstaurantstore.com
@@ -14,4 +14,4 @@ This program automatically:
 * Selenium
 
 ### WebDriver
-* [Chromedriver](https://chromedriver.chromium.org/downloads)
+* [ChromeDriver](https://chromedriver.chromium.org/downloads)
